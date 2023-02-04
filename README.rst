@@ -16,33 +16,31 @@ you can download from `github <https://github.com/mohammadhasananisi/personal_ac
 
 .. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_2.jpg?raw=true
    :width: 25%
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_3.jpg?raw=true
+.. |image3| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_3.jpg?raw=true
    :width: 25%
 
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_4.jpg?raw=true
+.. |image4| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_4.jpg?raw=true
    :width: 25%
 
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_5.jpg?raw=true
+.. |image5| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_5.jpg?raw=true
    :width: 25%
 
-
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_6.jpg?raw=true
+.. |image6| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_6.jpg?raw=true
    :width: 25%
 
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_7.jpg?raw=true
+.. |image7| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_7.jpg?raw=true
    :width: 25%
 
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_8.jpg?raw=true
+.. |image8| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_8.jpg?raw=true
    :width: 25%
 
-
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_9.jpg?raw=true
+.. |image9| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_9.jpg?raw=true
    :width: 25%
 
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_10.jpg?raw=true
+.. |image10| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_10.jpg?raw=true
    :width: 25%
 
-.. |image2| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_11.jpg?raw=true
+.. |image11| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_11.jpg?raw=true
    :width: 25%
 
 
@@ -50,7 +48,7 @@ you can download from `github <https://github.com/mohammadhasananisi/personal_ac
 Requirements
 ------------
 
-To use all of the functionality of the library, you should have all thing in [package-lock.json](https://github.com/mohammadhasananisi/personal_accountant/blob/main/package-lock.json) or [yarn.lock](https://github.com/mohammadhasananisi/personal_accountant/blob/main/yarn.lock):
+To use all of the functionality of the library, you should have all thing in `package-lock.json <https://github.com/mohammadhasananisi/personal_accountant/blob/main/package-lock.json>`__ or `yarn.lock <https://github.com/mohammadhasananisi/personal_accountant/blob/main/yarn.lock>`__.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
