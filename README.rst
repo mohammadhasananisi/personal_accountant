@@ -7,7 +7,9 @@ Preview
 ----------
 you can download from `github <https://github.com/mohammadhasananisi/personal_accountant/releases/tag/apk>`__ or `myket <https://myket.ir/app/com.MohammadHasanAnisi.Calc>`__.
 
-|image1||image2||image3||image4||image5||image6||image7||image8||image9||image10||image11|
+|image1| |image2| |image3| |image4|
+|image5| |image6| |image7| |image8|
+|image9| |image10| |image11|
 
 .. |image1| image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_1.jpg?raw=true
    :width: 25%
