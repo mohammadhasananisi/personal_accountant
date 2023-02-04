@@ -9,6 +9,7 @@ you can download from `github <https://github.com/mohammadhasananisi/personal_ac
 
 
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_1.jpg?raw=true
+    :scale: 50%
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_2.jpg?raw=true
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_3.jpg?raw=true
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_4.jpg?raw=true
