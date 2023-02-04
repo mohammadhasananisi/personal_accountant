@@ -5,7 +5,7 @@ Personal Accountant
 
 Preview
 ----------
-you can download from [github](https://github.com/mohammadhasananisi/personal_accountant/releases/tag/apk) or [myket](https://myket.ir/app/com.MohammadHasanAnisi.Calc).
+you can download from `github <https://github.com/mohammadhasananisi/personal_accountant/releases/tag/apk>`__ or `myket <https://myket.ir/app/com.MohammadHasanAnisi.Calc>`__.
 
 
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_1.jpg?raw=true
