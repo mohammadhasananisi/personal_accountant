@@ -9,17 +9,27 @@ you can download from `github <https://github.com/mohammadhasananisi/personal_ac
 
 
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_1.jpg?raw=true
-    :scale: 50%
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_2.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_3.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_4.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_5.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_6.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_7.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_8.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_9.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_10.jpg?raw=true
+    :width: 400
 .. image:: https://github.com/mohammadhasananisi/personal_accountant/blob/main/demo_photo/photo_11.jpg?raw=true
+    :width: 400
 
 
 Requirements
